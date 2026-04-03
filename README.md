@@ -18,3 +18,4 @@ Gérer des listes dynamiques avec React (map() et key).
 Apprendre à structurer un projet React avec plusieurs composants et fichiers.
 Voir le rendu dynamique dans le navigateur grâce au serveur de développement (npm start).
 
+![Capture d'écran](./capture_ecran_2026-04-03_200026.png)
